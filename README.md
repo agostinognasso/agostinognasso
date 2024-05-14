@@ -1,6 +1,7 @@
 # Hello, I'm @agostinognasso! 👋
 
-I'm a Ph.D. candidate in Economics at the University of Naples Federico II. Currently, my research focuses on economics, but my interests extend to the application of machine learning and artificial intelligence.
+I'm a Ph.D. candidate in Economics at the University of Naples Federico II. Currently, my research interests lie in Explainable Machine Learning, with a background in economics and a keen interest in its applications in various domains.
+
 
 ## Interests 💡
 - 📈 I'm passionate about how machine learning can revolutionize economics and finance, making them more efficient and accessible.
