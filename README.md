@@ -31,4 +31,3 @@ My primary interest lies in **Explainable Artificial Intelligence (XAI)** and **
 * 👔 **LinkedIn:** [Agostino Gnasso](https://linkedin.com/in/agostino-gnasso)
 * 🎓 **Google Scholar:** [My Profile](https://scholar.google.com/)
 
-![Agostino's GitHub stats](https://github-readme-stats.vercel.app/api?username=agostinognasso&show_icons=true&theme=minimal)
