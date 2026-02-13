@@ -1,16 +1,34 @@
-# Hello, I'm @agostinognasso! 👋
+# Hi there, I'm Agostino Gnasso! 👋
 
-Ph.D. Candidate in Economics at the University of Naples Federico II. My research focuses on the intersection of Statistics and Explainable Machine Learning (XAI), with a specific emphasis on developing interpretable models for complex  phenomena. Leveraging a strong background in economic theory, I investigate how advanced computational methods can provide transparent and actionable insights across diverse domains.
+### Ph.D. in Economics | Data Scientist | R Developer
 
-## Interests 💡
-- 📈 I'm passionate about how machine learning can revolutionize economics and finance, making them more efficient and accessible.
-- 🌱 Beyond the financial world, I believe that innovation in machine learning can open new doors in the healthcare sector as well, improving diagnoses, treatments, and disease prevention.
+I am a Researcher based at the **University of Naples Federico II** (Department of Economics and Statistics). My work stands at the intersection of **Statistics**, **Economics**, and **Machine Learning**, with a strong focus on model interpretability and software development.
 
-## How to Reach Me 📫
-You can contact me via email: agostino.gnasso@outlook.it. I'm always open to new collaborations and interesting discussions!
+---
 
-## More About Me 🌟
-- 🔭 I'm currently exploring new machine learning techniques to analyze complex economic data.
-- 🎓 I'm passionate about sharing knowledge and experience with the community, so you'll often find my contributions on GitHub and other online forums.
+### 🔬 Research Focus
+My primary interest lies in **Explainable Artificial Intelligence (XAI)** and **Explainable Machine Learning (XML)**. I develop statistical methods and tools to make complex algorithms—especially **decision trees**—transparent and actionable for decision-making in economics and beyond.
 
-Feel free to follow me on GitHub and check out my projects! I'm always eager to share ideas and collaborate on interesting projects.
+* 🔭 I’m currently working on **interpretable and explainable machine learning models** and **R packages**.
+* 🤝 I’m a core member of the **[Bibliometrix](https://www.bibliometrix.org)** research team and the academic spin-off **[K-Synth](https://www.k-synth.unina.it)**.
+
+---
+
+### 🛠 Languages & Tools
+
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+---
+
+### 📫 Connect with me
+
+* 🌐 **Website:** [agostinognasso.github.io](https://agostinognasso.github.io)
+* 📧 **Email:** [agostino.gnasso@unina.it](mailto:agostino.gnasso@unina.it)
+* 👔 **LinkedIn:** [Agostino Gnasso](https://linkedin.com/in/agostino-gnasso)
+* 🎓 **Google Scholar:** [My Profile](https://scholar.google.com/)
+
+![Agostino's GitHub stats](https://github-readme-stats.vercel.app/api?username=agostinognasso&show_icons=true&theme=minimal)
