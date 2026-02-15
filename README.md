@@ -6,15 +6,16 @@ I am a Researcher based at the **University of Naples Federico II** (Department 
 
 ---
 
-### 🔬 Research Focus
+### Research Focus
 My primary interest lies in **Explainable Artificial Intelligence (XAI)** and **Explainable Machine Learning (XML)**. I develop statistical methods and tools to make complex algorithms—especially **decision trees**—transparent and actionable for decision-making in economics and beyond.
 
-* I’m currently working on **interpretable and explainable machine learning models** and **R packages**.
+* I’m currently working on **interpretable machine learning models** and **R packages**.
 * I’m a core member of the **[Bibliometrix](https://www.bibliometrix.org)** research team and the academic spin-off **[K-Synth](https://www.k-synth.unina.it)**.
+* I was a Visiting Scholar at **Leiden University** (Department of Methodology and Statistics).
 
 ---
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
@@ -30,4 +31,3 @@ My primary interest lies in **Explainable Artificial Intelligence (XAI)** and **
 * 📧 **Email:** [agostino.gnasso@unina.it](mailto:agostino.gnasso@unina.it)
 * 👔 **LinkedIn:** [Agostino Gnasso](https://linkedin.com/in/agostino-gnasso)
 * 🎓 **Google Scholar:** [My Profile](https://scholar.google.com/)
-
