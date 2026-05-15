@@ -11,7 +11,6 @@ My primary interest lies in **Explainable Artificial Intelligence (XAI)** and **
 
 * I’m currently working on **interpretable machine learning models** and **R packages**.
 * I’m a core member of the **[Bibliometrix](https://www.bibliometrix.org)** research team and the academic spin-off **[K-Synth](https://www.k-synth.unina.it)**.
-* I was a Visiting Scholar at **Leiden University** (Department of Methodology and Statistics).
 
 ---
 
